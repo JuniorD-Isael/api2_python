@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.egg
+*.whl
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+*.env
+
+# Coverage reports
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+*.cover
+
+# Virtual environment
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# Miscellaneous
+*.log
+*.pot
+*.py[cod]
+*.DS_Store
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Documentation
+docs/_build/
