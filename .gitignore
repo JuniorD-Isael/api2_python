@@ -31,6 +31,7 @@ nosetests.xml
 *.cover
 
 # Virtual environment
+.venv
 venv/
 env/
 ENV/
@@ -49,3 +50,6 @@ env.bak/
 
 # Documentation
 docs/_build/
+
+.mypy_cache
+.ruff_cache
